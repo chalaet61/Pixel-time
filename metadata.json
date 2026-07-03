@@ -1,0 +1,6 @@
+{
+  "name": "Digital Clock",
+  "description": "A premium, minimalist digital clock application styled with Material You and glassmorphic designs, featuring world clock, alarm, stopwatch, timer, and beautiful settings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
